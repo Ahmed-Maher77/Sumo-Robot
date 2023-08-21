@@ -1,2 +1,4 @@
-# Sumo-Robot
-A sumo robot is a specialized type of robot designed for competing in sumo robot competitions.
+![robot_sumo_flip](https://github.com/Ahmed-Maher77/Sumo-Robot/assets/112467034/bef465c2-d911-4c5a-8487-8d62ba4b96fc)
+
+# Sumo Robot
+A sumo robot is a specialized type of robot designed for competing in sumo robot competitions. These competitions involve two or more robots that are typically autonomous and equipped with sensors and actuators. The objective of a sumo robot is to push its opponent out of a circular ring or force it into a designated area within the ring, imitating the sport of sumo wrestling. Sumo robots are typically compact, sturdy, and designed to have a low center of gravity for better stability and pushing power. They often utilize various sensors, such as proximity sensors or line-following sensors, to detect and respond to the opponent's movements and the boundaries of the ring. The robots are programmed to strategize and execute tactics to gain an advantage over their opponents, such as quick movements, powerful pushing, or evasive maneuvers.
